@@ -91,5 +91,12 @@ return [
             'bold_italic' => $distFontDir . '/DejaVuSerif-BoldItalic',
             'italic' => $distFontDir . '/DejaVuSerif-Italic',
             'normal' => $distFontDir . '/DejaVuSerif'
+        ],
+    'gillsans' =>
+        [
+            'bold' => $distFontDir . '/GillSans-Bold',
+            'bold_italic' => $distFontDir . '/GillSans-SemiBoldItalic',
+            'italic' => $distFontDir . '/GillSans-Italic',
+            'normal' => $distFontDir . '/GillSans-Regular'
         ]
 ];

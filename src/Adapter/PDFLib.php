@@ -78,6 +78,7 @@ class PDFLib implements Canvas
         "symbol"                => "Symbol",
         "zapfdinbats"           => "ZapfDingbats",
         "zapfdingbats"          => "ZapfDingbats",
+        "gillsans"              => "GillSans",
     ];
 
     /**

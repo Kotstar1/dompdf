@@ -76,5 +76,11 @@
         "bold_italic": "DejaVuSerif-BoldItalic",
         "italic": "DejaVuSerif-Italic",
         "normal": "DejaVuSerif"
+    },
+    "gillsans": {
+        "bold": "GillSans-Bold",
+        "bold_italic": "GillSans-BoldItalic",
+        "italic": "GillSans-Italic",
+        "normal": "GillSans"
     }
 }
